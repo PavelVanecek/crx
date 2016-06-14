@@ -28,7 +28,7 @@
     "archiver": "^0.8.0",
     "commander": "^2.5.0",
     "es6-promise": "^2.0.0",
-    "node-rsa": "^0.2.10",
+    "node-rsa": "^0.3.3",
     "temp": "^0.8.1",
     "wrench": "^1.5.0"
   },
