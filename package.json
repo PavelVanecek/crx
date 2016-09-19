@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "github-changes": "^1.0.0",
-    "sinon": "^1.12.1",
+    "sinon": "^1.17.6",
     "tape": "^3.0.3"
   }
 }
