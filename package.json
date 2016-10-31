@@ -27,14 +27,14 @@
   "dependencies": {
     "archiver": "^1.1.0",
     "commander": "^2.5.0",
-    "es6-promise": "^2.0.0",
-    "node-rsa": "^0.2.10",
+    "es6-promise": "^4.0.5",
+    "node-rsa": "^0.4.2",
     "temp": "^0.8.1",
     "wrench": "^1.5.0"
   },
   "devDependencies": {
     "github-changes": "^1.0.0",
     "sinon": "^1.12.1",
-    "tape": "^3.0.3"
+    "tape": "^4.6.2"
   }
 }
